@@ -1,0 +1,4 @@
+- 👋 olá meu nome é @lucasfelipe9999
+- 👀 meu email de contato é lucas.felipe.silva09@escola.pr.gov.br
+- 🌱 estou interessado em aprender a progamar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaSript e Scratch
